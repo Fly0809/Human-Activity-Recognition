@@ -1,5 +1,3 @@
-Human Activity Recognition Experiment (Folder name: Human_Activity_Recognition):
-
 Step 1: Modify the following three paths to the location where the Human_Activity_Recognition folder is stored:
 
 In the config folder, modify line 22 of config.gin: load.data_dir = "/home/RUS_CIP/st191716/dl-lab-24w-team08/Human_Activity_Recognition"
